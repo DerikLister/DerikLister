@@ -5,8 +5,8 @@
 
  👀 Estou buscando me encontrar na carreira como Desenvolvedor<br>
  🌱 Atualmente estou aprendendo C# para trabalhar com ASP.NET<br>
- 📚 Estou Cursando Dev.Sistemas na [ETEC](https://www.cps.sp.gov.br/etec/)
- e Cursando ASP.NET na plataforma [Desenvolvedor.io](https://desenvolvedor.io/) do Eduardo Pires o Microsoft MVP do Brasil. <br>
+ 📚 Estou Cursando Dev.Sistemas na [ETEC](https://www.cps.sp.gov.br/etec/) <br>
+ e também ASP.NET na plataforma [Desenvolvedor.io](https://desenvolvedor.io/) do Eduardo Pires o Microsoft MVP do Brasil. <br>
  💞️ Procuro conhecer pessoas para trocar conhecimentos e experiências na área!<br>
  📫 Fique à vontade para entrar em contato comigo!<br>
  😄 Minhas atividades favoritas são: Jogos de RPG🐉, Treinar🦾 e Comer!🍔🍕 haha!<br>
