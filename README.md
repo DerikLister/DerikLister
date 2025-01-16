@@ -40,8 +40,6 @@
 
 ### Banco de Dados 📙
 
-Não tenho conhecimento suficiente ainda nesta parte, estou estudando ainda 📚
-
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud Computing Service 📙
