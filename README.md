@@ -34,12 +34,14 @@
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Static Badge](https://img.shields.io/badge/Identity-Framework?style=for-the-badge&logo=dotnet&color=%23512BD4)
 ![Static Badge](https://img.shields.io/badge/Entity-Framework?style=for-the-badge&logo=dotnet&color=%23512BD4)
-![Static Badge](https://img.shields.io/badge/AspNet__Mvc-mvc?style=for-the-badge&logo=dotnet&color=%23512BD4)
+![Static Badge](https://img.shields.io/badge/AspNet%20Mvc-mvc?style=for-the-badge&logo=dotnet&color=%23512BD4)
 
 ### Ferramentas que conheço 📗
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio-mvc?style=for-the-badge&logo=dotnet&color=%23512BD4)
+
 
 ### SOs que conheço 📗
 
