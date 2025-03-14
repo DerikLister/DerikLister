@@ -28,12 +28,13 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-
 ### Bibliotecas e Frameworks que conheço / estou estudando 📗
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Static Badge](https://img.shields.io/badge/Identity-Framework?style=for-the-badge&logo=dotnet&color=%23512BD4)
+![Static Badge](https://img.shields.io/badge/Entity-Framework?style=for-the-badge&logo=dotnet&color=%23512BD4)
+![Static Badge](https://img.shields.io/badge/AspNet__Mvc-mvc?style=for-the-badge&logo=dotnet&color=%23512BD4)
 
 ### Ferramentas que conheço 📗
 
